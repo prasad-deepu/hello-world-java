@@ -38,6 +38,5 @@ public class HelloWorld {
 	System.out.println("Hello, World Welcome Renuka Prasad");
 
 	System.out.println("Hello, World is now clean");
-	System.out.println("Hello, World Welcome back Renuka Prasad");
   }   
 }
